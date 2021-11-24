@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">کوئز اسائنمنٹ</string>
+    <string name="s_true">سچ ہے۔</string>
+    <string name="s_false">جھوٹا</string>
+
+    <string name="s_correct">درست</string>
+    <string name="s_incorrect">غلط</string>
+
+    <string name="s_result">نتیجہ</string>
+    <string name="s_yourscoreis">آپ کا سکور ہے</string>
+    <string name="s_outof">سے باہر</string>
+
+    <string name="s_yourCorrect">آپ کے درست جوابات ہیں۔</string>
+    <string name="s_in">میں</string>
+    <string name="s_attempts">کوششیں</string>
+
+    <string name="s_save">محفوظ کریں۔</string>
+    <string name="s_ignore">نظر انداز کرنا</string>
+    <string name="s_ok">ٹھیک ہے</string>
+
+    <string name="s_getTheAverage">اوسط حاصل کریں۔</string>
+    <string name="s_selectQuestion">سوال کا نمبر منتخب کریں۔</string>
+    <string name="s_reset">محفوظ شدہ نتیجہ کو دوبارہ ترتیب دیں۔</string>
+    <string name="s_addQuestion">نیا سوال شامل کریں۔</string>
+
+    <string name="s_que1">نظام شمسی میں نو سیارے ہیں۔</string>
+    <string name="s_que2">مشتری سورج سے 58 ملین کلومیٹر دور ہے۔</string>
+    <string name="s_que3">چاند قدرتی سیٹلائٹ کی ایک مثال ہے۔.</string>
+    <string name="s_que4">عطارد نظام شمسی کا سب سے چھوٹا سیارہ ہے جس کا قطر 3000 کلومیٹر ہے۔</string>
+    <string name="s_que5">ایک ستارہ خلا میں ایک ایسی چیز ہے جو روشنی اور حرارت دیتا ہے۔</string>
+    <string name="s_que6">سیارچہ پانی اور برف سے بنا ہے جو سورج کے گرد گھومتا ہے۔</string>
+    <string name="s_que7">زمین نظام شمسی کا تیسرا سیارہ ہے۔</string>
+    <string name="s_que8">زہرہ کا سامنا سورج کی طرف ہے اور اس کا درجہ حرارت 430oC ہے۔</string>
+
+</resources>

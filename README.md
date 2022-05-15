@@ -21,6 +21,7 @@
 •	Saved the user's average attempt to result in the file.
 
 <img width="229" alt="Screenshot 2022-05-14 225531" src="https://user-images.githubusercontent.com/59780645/168455505-295dcf9e-0207-4038-83e1-518d12d373eb.png">
+<img width="227" alt="Screenshot 2022-05-14 231527" src="https://user-images.githubusercontent.com/59780645/168455626-d9751c70-2d75-4373-9282-394e7d0fc3cf.png">
 
 •	Make the application work in both Portrait and landscape mode.
 
